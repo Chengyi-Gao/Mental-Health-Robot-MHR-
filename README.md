@@ -44,9 +44,7 @@ The goal is to study user experience and engagement under different robot intera
 
 1. Start the Furhat robot and ensure it is reachable at `localhost`
 2. Run one of the scripts:
-neutral.py
-# or
-emotional.py
+neutral.py or emotional.py
 
 ---
 
